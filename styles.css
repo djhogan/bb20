@@ -1,0 +1,20 @@
+th {
+  text-align: left;
+}
+#hor-minimalist-a
+{
+	margin: 45px;
+	width: 480px;
+	border-collapse: collapse;
+	text-align: left;
+}
+#hor-minimalist-a th
+{
+	font-size: 14px;
+	padding: 10px 8px;
+	border-bottom: 2px solid;
+}
+#hor-minimalist-a td
+{
+	padding: 9px 8px 0px 8px;
+}
